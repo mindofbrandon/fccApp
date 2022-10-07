@@ -1,3 +1,44 @@
 {
-    "products": []
+    "products": [
+        {
+            "id": 1,
+            "name": "Licensed Granite Bike",
+            "description": "Qui qui ut enim et odit atque qui optio voluptatem. Ut harum aliquam vero. Nisi et qui nam mollitia dolorem et aliquid. Ut aliquid qui repudiandae ut cum vero exercitationem.",
+            "price": "884.00",
+            "imageUrl": "https://source.unsplash.com/1600x900/?product",
+            "quantity": 83172
+        },
+        {
+            "id": 2,
+            "name": "Generic Frozen Shoes",
+            "description": "Enim fuga qui ut non ut omnis animi aut. Reiciendis neque odit in deserunt reprehenderit minus eaque ea ut. Ea corporis aut provident. Tempore nesciunt similique sapiente. Laboriosam voluptatem asperiores dolorem pariatur. Qui qui est ut nisi veniam unde eveniet quo vero.",
+            "price": "658.00",
+            "imageUrl": "https://source.unsplash.com/1600x900/?product",
+            "quantity": 88416
+        },
+        {
+            "id": 3,
+            "name": "Small Steel Soap",
+            "description": "Ab dolore unde qui amet eum doloribus quis suscipit nesciunt. Aperiam quidem cupiditate earum alias qui explicabo.",
+            "price": "749.00",
+            "imageUrl": "https://source.unsplash.com/1600x900/?product",
+            "quantity": 91574
+        },
+        {
+            "id": 4,
+            "name": "Ergonomic Soft Car",
+            "description": "Officia sit nesciunt dolorem. Praesentium ratione repellendus qui tempore cupiditate qui. Et laboriosam error aut vitae in non cupiditate assumenda.",
+            "price": "105.00",
+            "imageUrl": "https://source.unsplash.com/1600x900/?product",
+            "quantity": 74294
+        },
+        {
+            "id": 5,
+            "name": "Refined Plastic Pants",
+            "description": "Blanditiis maiores qui ad dolorum sit ut architecto dolores quasi. Vel magnam unde et pariatur consequatur modi optio sit molestias. Sunt illum ut totam quis dignissimos tenetur delectus. Alias nobis quam aut consequatur id quibusdam facilis. Exercitationem sit et.",
+            "price": "69.00",
+            "imageUrl": "https://source.unsplash.com/1600x900/?product",
+            "quantity": 22906
+        }
+    ]
 }
